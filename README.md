@@ -15,7 +15,7 @@ Current build status
 ====================
 
 [![Linux](https://img.shields.io/circleci/project/github/ver228/tierpsy-feedstock/master.svg?label=Linux)](https://circleci.com/gh/ver228/tierpsy-feedstock)
-[![OSX](https://img.shields.io/travis/ver228/tierpsy-feedstock/master.svg?label=macOS)](https://travis-ci.org/ver228/tierpsy-feedstock)
+[![OSX](https://img.shields.io/travis/ver228/tierpsy-feedstock/master.svg?label=macOS)](https://travis-ci.com/ver228/tierpsy-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/ver228/tierpsy-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/ver228/tierpsy-feedstock/branch/master)
 
 Current release info
