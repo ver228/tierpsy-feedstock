@@ -52,11 +52,6 @@ test:
     - tierpsy_process -h
     - tierpsy_tests -h
 
-app:
-  entry: tierpsy_gui
-  summary: Tierpsy Tracker Multi-Worm Tracker
-  type: desk
-
 about:
   home: https://github.com/ver228/tierpsy-tracker
   license: MIT
