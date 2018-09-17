@@ -1,9 +1,9 @@
+channels:
+  targets:
+  - [ver228, main]
 travis:
   secure:
     BINSTAR_TOKEN: HprCGFEps0r9Ea1JPLfbJ+C+pjFWEnztC/VPuILBf7nZiOjMPTGQtdYJAXH19BnJiMRRMuescKnVpwICfddV2VwXoKj0LyLNv5MglwimFiwAIh2Beg0LeRpPq510mGMlqmNzB9YV1tFOhmAKo937IDnmC4ZLVK4wadkTq3H5Ng4wV1wMViN5ZzyGFf9nz+oEYEy4u/Czzru3lrKy7PajU5YIccOplg6FDXYzoF4wjD58fmhN+5+HIL4AM5PEU2AsFQQrwLJKjOYiltxWtYjmtXzC6qzRQART6mYXs8UM+czwiJ+hTpp1NSDMK9EhFtKRNVLTMH/ho6XDR6rm/w4Bu5qDUx5x9JfVJ4e8t79JMVzabXfYqHWV9ZlaxJd27u432MiSCraQ/l9dviA3ETy768iBqoSweg1Zf81INVtwr6dnQAVV7xzP32inxWtJ6kSfuueH5Lzip3MdgTNiAWZUz2uqjxx9MtsmvcpcsnfOOY65qaMCuiETEJf5clC0r2puO09QvgEQkvmZAa8rA33cthU6HbBnz3DHF/x5JnzqF0yiFHkm+gFUQBtppEALer3cU9vQoPZpJHVR1xHRbY27BBhntz/ccLe1LCHoXGqpqEMxCmaN9klBwNhvZiPENyNgF21Re/H4kWROsiW3nNsW8thYdVTgl0+XMnB7ocS4xn0=
 appveyor:
   secure:
     BINSTAR_TOKEN: h+jxVxRg5GD5kOdyEc0A2Mx3AveqSkLpqYGcmSgdEQRJ/u4li5RjcC4ohMk8i/Kp
-channels:
-  targets:
-  - [ver228, main]
