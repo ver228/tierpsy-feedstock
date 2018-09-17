@@ -6,9 +6,10 @@ package:
   version: {{ version }}
 
 source:
-  url: https://github.com/ver228/tierpsy-tracker/archive/1.5.1-beta.tar.gz
-  sha256: 16b7ed1ed4151fe551451146f5a556a95bf33ed8293942f706a4d906be37b145
-  
+  #url: https://github.com/ver228/tierpsy-tracker/archive/1.5.1-beta.tar.gz
+  #sha256: 16b7ed1ed4151fe551451146f5a556a95bf33ed8293942f706a4d906be37b145
+  git_url: https://github.com/ver228/tierpsy-tracker.git
+
 build:
   osx_is_app: True
   number: 0
